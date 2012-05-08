@@ -17,10 +17,10 @@
 <!-- See also values-xlarge for specializations for xlarge screens -->
 <resources>
     <!-- Account setup screens -->
-    <color name="account_setup_headline_color">#33b5e5</color>
+    <color name="account_setup_headline_color">@android:color/holo_blue_light</color>
     <color name="account_setup_info_text_color">#F0F0F0</color>
     <color name="account_setup_label_text_color">#AAAAAA</color>
-    <color name="account_setup_divider_color">#33B5E5</color>
+    <color name="account_setup_divider_color">@android:color/holo_blue_light</color>
 
     <!-- Main UI -->
     <color name="message_list_item_background_unread">#202020</color>
@@ -31,7 +31,7 @@
     <!-- Standard text colors -->
     <color name="text_primary_color">#ffffffff</color>
     <color name="text_secondary_color">#ffdfdfdf</color>
-    <color name="text_ternary_color">#ff33b5e5</color>
+    <color name="text_ternary_color">@android:color/holo_blue_light</color>
     <color name="text_disabled_color">#ffa0a0a0</color>
 
     <color name="button_text_color">#777777</color>
